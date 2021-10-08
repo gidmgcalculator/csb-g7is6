@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-g7is6/static/css/main.deeb0442.chunk.css",
-    "main.js": "https://.github.io/csb-g7is6/static/js/main.57311335.chunk.js",
-    "main.js.map": "https://.github.io/csb-g7is6/static/js/main.57311335.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-g7is6/static/js/runtime-main.a66e1e8a.js",
-    "runtime-main.js.map": "https://.github.io/csb-g7is6/static/js/runtime-main.a66e1e8a.js.map",
-    "static/js/2.15c12cf6.chunk.js": "https://.github.io/csb-g7is6/static/js/2.15c12cf6.chunk.js",
-    "static/js/2.15c12cf6.chunk.js.map": "https://.github.io/csb-g7is6/static/js/2.15c12cf6.chunk.js.map",
-    "index.html": "https://.github.io/csb-g7is6/index.html",
-    "static/css/main.deeb0442.chunk.css.map": "https://.github.io/csb-g7is6/static/css/main.deeb0442.chunk.css.map",
-    "static/js/2.15c12cf6.chunk.js.LICENSE.txt": "https://.github.io/csb-g7is6/static/js/2.15c12cf6.chunk.js.LICENSE.txt"
+    "main.css": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.deeb0442.chunk.css",
+    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.dd32fb32.chunk.js",
+    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.dd32fb32.chunk.js.map",
+    "runtime-main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.bb3fdb9f.js",
+    "runtime-main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.bb3fdb9f.js.map",
+    "static/js/2.6c18ffcb.chunk.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.6c18ffcb.chunk.js",
+    "static/js/2.6c18ffcb.chunk.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.6c18ffcb.chunk.js.map",
+    "index.html": "https://gidmgcalculator.github.io/csb-g7is6/index.html",
+    "static/css/main.deeb0442.chunk.css.map": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.deeb0442.chunk.css.map",
+    "static/js/2.6c18ffcb.chunk.js.LICENSE.txt": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.6c18ffcb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a66e1e8a.js",
-    "static/js/2.15c12cf6.chunk.js",
+    "static/js/runtime-main.bb3fdb9f.js",
+    "static/js/2.6c18ffcb.chunk.js",
     "static/css/main.deeb0442.chunk.css",
-    "static/js/main.57311335.chunk.js"
+    "static/js/main.dd32fb32.chunk.js"
   ]
 }
