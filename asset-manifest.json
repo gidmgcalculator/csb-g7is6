@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.3ac9f320.chunk.css",
-    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.e1e5e687.chunk.js",
-    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.e1e5e687.chunk.js.map",
-    "runtime-main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.bb3fdb9f.js",
-    "runtime-main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.bb3fdb9f.js.map",
-    "static/js/2.bbcbb9b3.chunk.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.bbcbb9b3.chunk.js",
-    "static/js/2.bbcbb9b3.chunk.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.bbcbb9b3.chunk.js.map",
+    "main.css": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.33af9f25.chunk.css",
+    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.6d47dfe1.chunk.js",
+    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.6d47dfe1.chunk.js.map",
+    "runtime-main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.a262fea3.js",
+    "runtime-main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.a262fea3.js.map",
+    "static/js/2.ab3f40a0.chunk.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.ab3f40a0.chunk.js",
+    "static/js/2.ab3f40a0.chunk.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.ab3f40a0.chunk.js.map",
     "index.html": "https://gidmgcalculator.github.io/csb-g7is6/index.html",
-    "static/css/main.3ac9f320.chunk.css.map": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.3ac9f320.chunk.css.map",
-    "static/js/2.bbcbb9b3.chunk.js.LICENSE.txt": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.bbcbb9b3.chunk.js.LICENSE.txt"
+    "static/css/main.33af9f25.chunk.css.map": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.33af9f25.chunk.css.map",
+    "static/js/2.ab3f40a0.chunk.js.LICENSE.txt": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.ab3f40a0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb3fdb9f.js",
-    "static/js/2.bbcbb9b3.chunk.js",
-    "static/css/main.3ac9f320.chunk.css",
-    "static/js/main.e1e5e687.chunk.js"
+    "static/js/runtime-main.a262fea3.js",
+    "static/js/2.ab3f40a0.chunk.js",
+    "static/css/main.33af9f25.chunk.css",
+    "static/js/main.6d47dfe1.chunk.js"
   ]
 }
