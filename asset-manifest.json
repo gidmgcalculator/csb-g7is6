@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.33af9f25.chunk.css",
-    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.7c26803b.chunk.js",
-    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.7c26803b.chunk.js.map",
+    "main.css": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.d4905386.chunk.css",
+    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.acc9e93f.chunk.js",
+    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.acc9e93f.chunk.js.map",
     "runtime-main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.a262fea3.js",
     "runtime-main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.a262fea3.js.map",
-    "static/js/2.228781cb.chunk.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.228781cb.chunk.js",
-    "static/js/2.228781cb.chunk.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.228781cb.chunk.js.map",
+    "static/js/2.fe7281a5.chunk.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.fe7281a5.chunk.js",
+    "static/js/2.fe7281a5.chunk.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.fe7281a5.chunk.js.map",
     "index.html": "https://gidmgcalculator.github.io/csb-g7is6/index.html",
-    "static/css/main.33af9f25.chunk.css.map": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.33af9f25.chunk.css.map",
-    "static/js/2.228781cb.chunk.js.LICENSE.txt": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.228781cb.chunk.js.LICENSE.txt"
+    "static/css/main.d4905386.chunk.css.map": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.d4905386.chunk.css.map",
+    "static/js/2.fe7281a5.chunk.js.LICENSE.txt": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.fe7281a5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a262fea3.js",
-    "static/js/2.228781cb.chunk.js",
-    "static/css/main.33af9f25.chunk.css",
-    "static/js/main.7c26803b.chunk.js"
+    "static/js/2.fe7281a5.chunk.js",
+    "static/css/main.d4905386.chunk.css",
+    "static/js/main.acc9e93f.chunk.js"
   ]
 }
