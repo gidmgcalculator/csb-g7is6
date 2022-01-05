@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.83c8aa7e.chunk.css",
-    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.9b887ff6.chunk.js",
-    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.9b887ff6.chunk.js.map",
+    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.f9c4bf8b.chunk.js",
+    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.f9c4bf8b.chunk.js.map",
     "runtime-main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.a262fea3.js",
     "runtime-main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.a262fea3.js.map",
     "static/js/2.2222e062.chunk.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.2222e062.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a262fea3.js",
     "static/js/2.2222e062.chunk.js",
     "static/css/main.83c8aa7e.chunk.css",
-    "static/js/main.9b887ff6.chunk.js"
+    "static/js/main.f9c4bf8b.chunk.js"
   ]
 }
