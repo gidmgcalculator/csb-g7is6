@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "https://.github.io/csb-g7is6/static/css/main.a2f96438.chunk.css",
-    "main.js": "https://.github.io/csb-g7is6/static/js/main.d0366976.chunk.js",
-    "main.js.map": "https://.github.io/csb-g7is6/static/js/main.d0366976.chunk.js.map",
-    "runtime-main.js": "https://.github.io/csb-g7is6/static/js/runtime-main.4b6ef1c7.js",
-    "runtime-main.js.map": "https://.github.io/csb-g7is6/static/js/runtime-main.4b6ef1c7.js.map",
-    "static/js/2.143dd873.chunk.js": "https://.github.io/csb-g7is6/static/js/2.143dd873.chunk.js",
-    "static/js/2.143dd873.chunk.js.map": "https://.github.io/csb-g7is6/static/js/2.143dd873.chunk.js.map",
-    "index.html": "https://.github.io/csb-g7is6/index.html",
-    "static/css/main.a2f96438.chunk.css.map": "https://.github.io/csb-g7is6/static/css/main.a2f96438.chunk.css.map",
-    "static/js/2.143dd873.chunk.js.LICENSE.txt": "https://.github.io/csb-g7is6/static/js/2.143dd873.chunk.js.LICENSE.txt",
-    "static/media/haran.0e1a008a.png": "https://.github.io/csb-g7is6/static/media/haran.0e1a008a.png"
+    "main.css": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.a2f96438.chunk.css",
+    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.2c87d8cc.chunk.js",
+    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.2c87d8cc.chunk.js.map",
+    "runtime-main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.07251e13.js",
+    "runtime-main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.07251e13.js.map",
+    "static/js/2.52c44937.chunk.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.52c44937.chunk.js",
+    "static/js/2.52c44937.chunk.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.52c44937.chunk.js.map",
+    "index.html": "https://gidmgcalculator.github.io/csb-g7is6/index.html",
+    "static/css/main.a2f96438.chunk.css.map": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.a2f96438.chunk.css.map",
+    "static/js/2.52c44937.chunk.js.LICENSE.txt": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.52c44937.chunk.js.LICENSE.txt",
+    "static/media/haran.0e1a008a.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/haran.0e1a008a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4b6ef1c7.js",
-    "static/js/2.143dd873.chunk.js",
+    "static/js/runtime-main.07251e13.js",
+    "static/js/2.52c44937.chunk.js",
     "static/css/main.a2f96438.chunk.css",
-    "static/js/main.d0366976.chunk.js"
+    "static/js/main.2c87d8cc.chunk.js"
   ]
 }
