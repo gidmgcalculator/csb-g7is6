@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.a2f96438.chunk.css",
-    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.05688d44.chunk.js",
-    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.05688d44.chunk.js.map",
-    "runtime-main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.07251e13.js",
-    "runtime-main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.07251e13.js.map",
-    "static/js/2.5e8c352c.chunk.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.5e8c352c.chunk.js",
-    "static/js/2.5e8c352c.chunk.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.5e8c352c.chunk.js.map",
+    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.4ac05a9a.chunk.js",
+    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.4ac05a9a.chunk.js.map",
+    "runtime-main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.8bf8700e.js",
+    "runtime-main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.8bf8700e.js.map",
+    "static/js/2.8a72824c.chunk.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.8a72824c.chunk.js",
+    "static/js/2.8a72824c.chunk.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.8a72824c.chunk.js.map",
     "index.html": "https://gidmgcalculator.github.io/csb-g7is6/index.html",
     "static/css/main.a2f96438.chunk.css.map": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.a2f96438.chunk.css.map",
-    "static/js/2.5e8c352c.chunk.js.LICENSE.txt": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.5e8c352c.chunk.js.LICENSE.txt",
+    "static/js/2.8a72824c.chunk.js.LICENSE.txt": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.8a72824c.chunk.js.LICENSE.txt",
     "static/media/eoao_circlet.dfbb2026.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/eoao_circlet.dfbb2026.png",
     "static/media/eoao_flower.eebd1740.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/eoao_flower.eebd1740.png",
     "static/media/eoao_goblet.ef5fc488.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/eoao_goblet.ef5fc488.png",
@@ -23,9 +23,9 @@
     "static/media/vh_sands.d62c475d.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/vh_sands.d62c475d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.07251e13.js",
-    "static/js/2.5e8c352c.chunk.js",
+    "static/js/runtime-main.8bf8700e.js",
+    "static/js/2.8a72824c.chunk.js",
     "static/css/main.a2f96438.chunk.css",
-    "static/js/main.05688d44.chunk.js"
+    "static/js/main.4ac05a9a.chunk.js"
   ]
 }
