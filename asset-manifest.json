@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.a2f96438.chunk.css",
-    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.f3bb79c5.chunk.js",
-    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.f3bb79c5.chunk.js.map",
+    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.1c063315.chunk.js",
+    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.1c063315.chunk.js.map",
     "runtime-main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.8bf8700e.js",
     "runtime-main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.8bf8700e.js.map",
     "static/js/2.bbc857b8.chunk.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.bbc857b8.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/haran.072014c9.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/haran.072014c9.png",
     "static/media/vh_circlet.773dbc70.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/vh_circlet.773dbc70.png",
     "static/media/vh_flower.615bc860.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/vh_flower.615bc860.png",
-    "static/media/vh_goblet.5cf65570.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/vh_goblet.5cf65570.png",
+    "static/media/vh_goblet.3f5b0a38.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/vh_goblet.3f5b0a38.png",
     "static/media/vh_plume.4ea6e32d.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/vh_plume.4ea6e32d.png",
     "static/media/vh_sands.ea041f2a.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/vh_sands.ea041f2a.png"
   },
@@ -26,6 +26,6 @@
     "static/js/runtime-main.8bf8700e.js",
     "static/js/2.bbc857b8.chunk.js",
     "static/css/main.a2f96438.chunk.css",
-    "static/js/main.f3bb79c5.chunk.js"
+    "static/js/main.1c063315.chunk.js"
   ]
 }
