@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.a2f96438.chunk.css",
-    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.33d8939f.chunk.js",
-    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.33d8939f.chunk.js.map",
-    "runtime-main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.5df9f0d1.js",
-    "runtime-main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.5df9f0d1.js.map",
-    "static/js/2.e19a478c.chunk.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.e19a478c.chunk.js",
-    "static/js/2.e19a478c.chunk.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.e19a478c.chunk.js.map",
+    "main.css": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.b8abbd5a.chunk.css",
+    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.88eae907.chunk.js",
+    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.88eae907.chunk.js.map",
+    "runtime-main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.caf6626f.js",
+    "runtime-main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.caf6626f.js.map",
+    "static/js/2.a0397a27.chunk.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.a0397a27.chunk.js",
+    "static/js/2.a0397a27.chunk.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.a0397a27.chunk.js.map",
     "index.html": "https://gidmgcalculator.github.io/csb-g7is6/index.html",
-    "static/css/main.a2f96438.chunk.css.map": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.a2f96438.chunk.css.map",
-    "static/js/2.e19a478c.chunk.js.LICENSE.txt": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.e19a478c.chunk.js.LICENSE.txt",
-    "static/media/aqua_simulacra.2aed9de3.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/aqua_simulacra.2aed9de3.png",
-    "static/media/fading_twilight.2ac244c3.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/fading_twilight.2ac244c3.png"
+    "static/css/main.b8abbd5a.chunk.css.map": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.b8abbd5a.chunk.css.map",
+    "static/js/2.a0397a27.chunk.js.LICENSE.txt": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.a0397a27.chunk.js.LICENSE.txt",
+    "static/media/aqua_simulacra.4fab39c7.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/aqua_simulacra.4fab39c7.png",
+    "static/media/fading_twilight.33df3f83.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/fading_twilight.33df3f83.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5df9f0d1.js",
-    "static/js/2.e19a478c.chunk.js",
-    "static/css/main.a2f96438.chunk.css",
-    "static/js/main.33d8939f.chunk.js"
+    "static/js/runtime-main.caf6626f.js",
+    "static/js/2.a0397a27.chunk.js",
+    "static/css/main.b8abbd5a.chunk.css",
+    "static/js/main.88eae907.chunk.js"
   ]
 }
