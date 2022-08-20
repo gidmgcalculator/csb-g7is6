@@ -1,20 +1,25 @@
 {
   "files": {
     "main.css": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.a5e9a455.chunk.css",
-    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.d4a5e712.chunk.js",
-    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.d4a5e712.chunk.js.map",
+    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.aeee2bac.chunk.js",
+    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.aeee2bac.chunk.js.map",
     "runtime-main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.a9c2274c.js",
     "runtime-main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.a9c2274c.js.map",
     "static/js/2.d5cea9bc.chunk.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.d5cea9bc.chunk.js",
     "static/js/2.d5cea9bc.chunk.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.d5cea9bc.chunk.js.map",
     "index.html": "https://gidmgcalculator.github.io/csb-g7is6/index.html",
     "static/css/main.a5e9a455.chunk.css.map": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.a5e9a455.chunk.css.map",
-    "static/js/2.d5cea9bc.chunk.js.LICENSE.txt": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.d5cea9bc.chunk.js.LICENSE.txt"
+    "static/js/2.d5cea9bc.chunk.js.LICENSE.txt": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.d5cea9bc.chunk.js.LICENSE.txt",
+    "static/media/forest-regalia.1f743470.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/forest-regalia.1f743470.png",
+    "static/media/fruit-of-fulfillment.3e499335.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/fruit-of-fulfillment.3e499335.png",
+    "static/media/kings-squire.27efce2e.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/kings-squire.27efce2e.png",
+    "static/media/moonpiercer.14f83cfb.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/moonpiercer.14f83cfb.png",
+    "static/media/sapwood-blade.c13d452f.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/sapwood-blade.c13d452f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a9c2274c.js",
     "static/js/2.d5cea9bc.chunk.js",
     "static/css/main.a5e9a455.chunk.css",
-    "static/js/main.d4a5e712.chunk.js"
+    "static/js/main.aeee2bac.chunk.js"
   ]
 }
