@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.a5e9a455.chunk.css",
-    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.b3ef56ab.chunk.js",
-    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.b3ef56ab.chunk.js.map",
+    "main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.61f86694.chunk.js",
+    "main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/main.61f86694.chunk.js.map",
     "runtime-main.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.be464519.js",
     "runtime-main.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/runtime-main.be464519.js.map",
-    "static/js/2.e24d399f.chunk.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.e24d399f.chunk.js",
-    "static/js/2.e24d399f.chunk.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.e24d399f.chunk.js.map",
+    "static/js/2.e44114f4.chunk.js": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.e44114f4.chunk.js",
+    "static/js/2.e44114f4.chunk.js.map": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.e44114f4.chunk.js.map",
     "index.html": "https://gidmgcalculator.github.io/csb-g7is6/index.html",
     "static/css/main.a5e9a455.chunk.css.map": "https://gidmgcalculator.github.io/csb-g7is6/static/css/main.a5e9a455.chunk.css.map",
-    "static/js/2.e24d399f.chunk.js.LICENSE.txt": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.e24d399f.chunk.js.LICENSE.txt",
+    "static/js/2.e44114f4.chunk.js.LICENSE.txt": "https://gidmgcalculator.github.io/csb-g7is6/static/js/2.e44114f4.chunk.js.LICENSE.txt",
     "static/media/alhaitham.2ec3fcd4.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/alhaitham.2ec3fcd4.png",
     "static/media/light-of-foliar-sanction.2c2bcb07.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/light-of-foliar-sanction.2c2bcb07.png",
     "static/media/yaoyao.6092dd10.png": "https://gidmgcalculator.github.io/csb-g7is6/static/media/yaoyao.6092dd10.png"
   },
   "entrypoints": [
     "static/js/runtime-main.be464519.js",
-    "static/js/2.e24d399f.chunk.js",
+    "static/js/2.e44114f4.chunk.js",
     "static/css/main.a5e9a455.chunk.css",
-    "static/js/main.b3ef56ab.chunk.js"
+    "static/js/main.61f86694.chunk.js"
   ]
 }
